@@ -13,3 +13,15 @@ body{
 .lololo{
     width: 300px;
 }
+.cards{
+    background-color: azure;
+}
+.container-fluid{
+    background-color: azure;
+}
+.navbar-brand{
+    background-color: azure;
+}
+.dropdown-menu{
+    background-color: azure;
+}
